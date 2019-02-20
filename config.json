@@ -19,7 +19,7 @@
     "gameWidth": 5000,
     "gameHeight": 5000,
     "adminPass": "monkeyboy",
-    "gameMass": 20000,
+    "gameMass": 90000,
     "maxFood": 10000,
     "maxVirus": 50,
     "slowBase": 4.5,
@@ -31,7 +31,7 @@
     "newPlayerInitialPosition": "farthest",
     "massLossRate": 0,
     "minMassLoss": 0,
-    "mergeTimer": 0,
+    "mergeTimer": 1.5,
     "sqlinfo":{
       "connectionLimit": 100,
       "host": "DEFAULT",
