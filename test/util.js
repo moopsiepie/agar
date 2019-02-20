@@ -22,9 +22,9 @@ describe('util.js', function () {
     });
 
     it('should convert masses to a circle radius', function () {
-      var r1 = util.massToRadius(6), //4 16 1
-          r2 = util.massToRadius(19),
-          r3 = util.massToRadius(3);
+      var r1 = util.massToRadius(4), //4 16 1
+          r2 = util.massToRadius(16),
+          r3 = util.massToRadius(1);
 
       expect(r1).to.equal(16);
       expect(r2).to.equal(28);
