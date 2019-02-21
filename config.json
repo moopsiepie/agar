@@ -5,7 +5,7 @@
     "foodMass": 1,
     "fireFood": 3,
     "limitSplit": 64,
-    "defaultPlayerMass": 50,
+    "defaultPlayerMass": 20,
 	"virus": {
     "fill": "#33ff33",
   	"stroke": "#19D119",
@@ -16,7 +16,7 @@
         },
 		"splitMass": 180
 	},
-    "gameWidth": 1000
+    "gameWidth": 1000,
     "gameHeight": 1000,
     "adminPass": "monkeyboy",
     "gameMass": 90000,
