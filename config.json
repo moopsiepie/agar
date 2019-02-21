@@ -20,7 +20,7 @@
     "gameHeight":20000,
     "adminPass": "monkeyboy",
     "gameMass": 90000,
-    "maxFood": 5000,
+    "maxFood": 10000,
     "maxVirus": 0,
     "slowBase": 4.5,
     "logChat": 0,
@@ -38,6 +38,6 @@
       "user": "root",
       "password": "monkeyboy",
       "database": "DEFAULT",
-      "debug": false
+      "debug": true
     }
 }
